@@ -3,6 +3,7 @@
 ## 📦 Project Overview
 The **Shipment Pricing Prediction** project aims to predict shipment prices based on various factors in the supply chain domain using machine learning techniques. This project addresses the growing need for accurate predictions in the rapidly evolving supply chain analytics market.
 
+---
 ## 🚀 Technologies Used
 - **Machine Learning**: Various regression models
 - **Python**: Programming language for data analysis and modeling
@@ -14,9 +15,11 @@ The **Shipment Pricing Prediction** project aims to predict shipment prices base
   - Seaborn
   - Flask
 
+---
 ## 🔍 Problem Statement
 The supply chain analytics market is projected to grow significantly, with organizations needing to optimize pricing strategies. This project focuses on predicting shipment pricing using available data to help supply chain leaders make informed decisions.
 
+---
 ## 🔄 Architecture & Process Flow
 ### Process Flow
 ![Screenshot 2024-10-21 192106](https://github.com/user-attachments/assets/4769bfdb-4777-4845-833b-b0405f3447eb)
@@ -41,15 +44,17 @@ The supply chain analytics market is projected to grow significantly, with organ
 - Key features: `Days to Process`, `Line Item Insurance`, `Shipment Mode`, `Freight Cost`.
 
 ### Project Output Result
-![Project Output Result] ![Screenshot 2024-10-21 192322](https://github.com/user-attachments/assets/5eef75a0-e9b0-4001-b154-20d5e9dddf64)
+![Screenshot 2024-10-21 192322](https://github.com/user-attachments/assets/5eef75a0-e9b0-4001-b154-20d5e9dddf64)
 
 - Training R²: 0.998273
 - Test R²: 0.991598
 - Important features identified: `Days to Process`, `Line Item Insurance`, `Shipment Mode`, `Freight Cost`.
 
+---
 ## 📊 Dataset
 - **Dataset Link**: [Click here!](https://www.kaggle.com/datasets/divyeshardeshana/supply-chain-shipment-pricing-data)
 
+---
 ## 🛠️ Installation
 To run this project, you will need Python and the required libraries. Set up a virtual environment and install dependencies using pip:
 
